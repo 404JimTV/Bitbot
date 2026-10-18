@@ -2,9 +2,9 @@ import discord
 from discord.ext import commands
 import os
 
-TOKEN="MTU2MDQwNjk2NTQ3NjI2MTk4MQ.GvaLGG.76IAscaQ4QOsOaw0-gT0Cs9cw3UG4g1lJaTGlE"
-APPLICATION_ID=1560406965476261981
-GUILD_ID=1555474747477725234
+TOKEN="Classified"
+APPLICATION_ID=Classified
+GUILD_ID=Classified
 
 intents = discord.Intents.default()
 intents.members = True
